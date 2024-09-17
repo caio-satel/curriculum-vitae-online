@@ -1,5 +1,5 @@
 .experiencia .subtitulo {
-    color: #e0e0e0;
+    color: #cccccc;
 }
 
 .experiencia-texto {
@@ -19,7 +19,7 @@
     grid-template-columns: 1fr 1fr;
     gap: 10px 20px;
     padding: 20px;
-    background: #e0e0e0;
+    background: #cccccc;
     margin-bottom: 20px;
     border-radius: 4px;
     position: relative;
