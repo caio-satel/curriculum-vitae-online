@@ -113,6 +113,10 @@
     background: url("../img/idiomas.svg") no-repeat center center;
 }
 
+.formacao-extra {
+    margin-bottom: 60px;
+}
+
 .formacao-extra li {
     font-size: 1.125rem;
     line-height: 1.1;

@@ -30,8 +30,8 @@ img {
 
 .container {
     max-width: 2500px;
-    padding: 100px 20px;
-    margin: 0 30px;
+    padding: 60px 20px;
+    margin: 0px 50px;
     display: grid;
     gap: 150px;
 }
