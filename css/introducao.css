@@ -71,7 +71,7 @@
         grid-template-columns: 1fr;
     }
 
-    .introducao img{
+    .introducao #perfil{
         display: none;
     }
 

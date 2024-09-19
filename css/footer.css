@@ -9,15 +9,28 @@
     color: #cccccc;
 }
 
+.footer-contato {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+
 .footer-contato li {
-    font-weight: bold;
-    font-size: 1.5rem;
+    padding: 5px 2px;
+    font-weight: 300;
+    font-size: .875rem;
     line-height: 1.1;
     color: #ffffff;
-    margin-bottom: 14px;
+}
+
+.img-footer {
+    margin-right: 10px;
 }
 
 .footer-contato li a {
+    display: flex;
+    align-items: center;
     color: #ffffff;
     text-decoration: none;
 }
@@ -32,10 +45,6 @@
     .footer-container {
         grid-template-columns: 1fr;
         gap: 40px;
-    }
-
-    .footer-contato li {
-        font-size: 1.25rem;
     }
 }
 
